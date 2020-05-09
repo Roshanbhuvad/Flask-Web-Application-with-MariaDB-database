@@ -1,6 +1,15 @@
 # Flask-Web-Application-with-MariaDB-database
 Simple Student database with Flask Application
 
+# MariaDB Database structure in DBeaver 
+![](images/DBeaver.JPG)
+
+
+# MariaDB SQL Query
+![](images/MariaDB.JPG)
+
+# CMD for MariaDB 5.5
+![](images/CMD.JPG)
 # Registration form for student details 
 ![](images/Datafilling.JPG)
 
